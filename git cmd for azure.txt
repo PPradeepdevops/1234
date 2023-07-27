@@ -1,0 +1,45 @@
+ touch file1
+   79  ls
+   80  vi file1
+   81  cat file1
+   82  git clone https://ppradeepdevops@dev.azure.com/ppradeepdevops/HDFC%20Bank/_git/HDFC%20Bank
+   83  ls
+   84  cd HDFC%20Bank/
+   85  ls
+   86  ls
+   87  ls
+   88  cd ..
+   89  ls
+   90  git origin -v
+   91  git add .
+   92  git commit -m "this is from local" *
+   93  git remote add origin https://ppradeepdevops@dev.azure.com/ppradeepdevops/HDFC%20Bank/_git/HDFC%20Bank
+   94  git remote
+   95  git remote -v
+   96  git push origin
+   97  ls
+   98  git remote -v
+   99  ls
+  100  cd HDFC%20Bank/
+  101  ls
+  102  git pull origin
+  103  ls
+  104  cat hyfile2
+  105  vi mahafile
+  106  ls
+  107  ls
+  108  cat mahafile
+  109  git push origin main
+  110  git add .
+  111  la
+  112  ls
+  113  git add mahafile
+  114  git commit -m "this is maha" mahafile
+  115  git push -u origin main
+  116  ls
+  117  cat mahafile
+  118  git pull
+  119  cat mahafile
+  120  history
+
+HP@DESKTOP-ROA5QS4 MINGW64 ~/Desktop/dir/HDFC%20Bank (main)

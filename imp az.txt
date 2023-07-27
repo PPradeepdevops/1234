@@ -1,0 +1,33 @@
+Virtual machine name-->snapdeal
+
+Username---> snapdeal
+
+snapdeal@12345---p/w
+
+rdp---> 3389
+
+while creating vm in azure how many orr which resouces creating ?
+
+subnet
+virtual network 
+security grp
+nic card--> network interface card
+
+
+networkInterfaceName1
+
+networkSecurityGroupName
+
+subnetName
+
+virtualNetworkId
+
+osDiskType --storage
+
+enableHotpatching
+patchMode
+
+vTPM in azure? virtual Trusted Platform Module (vTPM), 
+
+
+public ip---->management step----> pradeep ip----> ((not none))
